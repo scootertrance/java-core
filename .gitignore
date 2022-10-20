@@ -21,25 +21,7 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-/Lesson1/.idea/.gitignore
-/Lesson1/Factorial/.idea/.gitignore
-/Lesson1/HowAreYou/.idea/.gitignore
-/Lesson1/numbers-operations/.idea/.gitignore
-/Lesson1/PentagonArea/.idea/.gitignore
-/Lesson1/Lesson1.iml
-/Lesson1/.idea/misc.xml
-/Lesson1/Factorial/.idea/misc.xml
-/Lesson1/HowAreYou/.idea/misc.xml
-/Lesson1/numbers-operations/.idea/misc.xml
-/Lesson1/PentagonArea/.idea/misc.xml
-/Lesson1/.idea/modules.xml
-/Lesson1/Factorial/.idea/modules.xml
-/Lesson1/HowAreYou/.idea/modules.xml
-/Lesson1/numbers-operations/.idea/modules.xml
-/Lesson1/PentagonArea/.idea/modules.xml
-/Lesson1/numbers-operations/.idea/uiDesigner.xml
-/Lesson1/.idea/vcs.xml
-/Lesson1/Factorial/.idea/vcs.xml
-/Lesson1/HowAreYou/.idea/vcs.xml
-/Lesson1/numbers-operations/.idea/vcs.xml
-/Lesson1/PentagonArea/.idea/vcs.xml
+# IntellijIdea files
+*.iml
+.idea
+out
